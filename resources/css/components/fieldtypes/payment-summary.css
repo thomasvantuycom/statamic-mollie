@@ -1,0 +1,7 @@
+.payment_summary-fieldtype .mb-2:has(label .sr-only) {
+    @apply mbe-0;
+}
+
+.payment_summary-fieldtype label:has(.sr-only) {
+    @apply mbe-0;
+}

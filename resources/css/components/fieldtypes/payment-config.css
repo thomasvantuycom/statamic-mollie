@@ -1,0 +1,7 @@
+.payment_config-fieldtype {
+    @apply p-0;
+}
+
+.payment_config-fieldtype label:has(.sr-only) {
+    @apply mbe-0;
+}
